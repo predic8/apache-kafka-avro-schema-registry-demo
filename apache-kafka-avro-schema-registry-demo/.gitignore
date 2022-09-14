@@ -1,0 +1,4 @@
+target
+.idea/
+
+src/main/java/de/predic8/avroDemo/Article.java

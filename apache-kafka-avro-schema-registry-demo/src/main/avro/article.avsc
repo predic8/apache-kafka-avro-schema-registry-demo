@@ -1,0 +1,9 @@
+{"namespace": "de.predic8.avroDemo",
+  "type": "record",
+  "name": "Article",
+  "fields": [
+    {"name": "name", "type": "string"},
+    {"name": "price",  "type": ["int", "null"]},
+    {"name": "origin", "type": ["string", "null"]}
+  ]
+}
