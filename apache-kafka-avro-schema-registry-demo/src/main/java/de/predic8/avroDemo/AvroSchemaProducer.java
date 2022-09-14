@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import static org.apache.kafka.clients.consumer.ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG;
 
-public class SimpleProducer {
+public class AvroSchemaProducer {
 
     public static void main(String[] args) {
 

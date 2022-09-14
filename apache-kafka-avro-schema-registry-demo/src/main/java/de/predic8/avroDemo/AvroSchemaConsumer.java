@@ -9,7 +9,7 @@ import java.util.Properties;
 
 import static org.apache.kafka.clients.consumer.ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG;
 
-public class SimpleConsumer {
+public class AvroSchemaConsumer {
 
 
     public static void main(String[] args) {
